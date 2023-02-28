@@ -1,1 +1,1 @@
-# CodeClause_Task2
+# Task2-Personal-Blog
